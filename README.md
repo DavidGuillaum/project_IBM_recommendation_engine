@@ -60,6 +60,8 @@ This project is structure is 3 main folders/parts: app, data and models. The app
 
 - Recommendations_with_IBM.ipynb # main file
 
+- Recommendations_with_IBM.html # main file but in htlm
+
 - top_5.p # pickle file created in the jupyter notebook
 
 - top_10.p # pickle file created in the jupyter notebook
